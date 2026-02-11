@@ -1,0 +1,6 @@
+@Plannor_HostAddress = http://localhost:5108
+
+GET {{Plannor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
